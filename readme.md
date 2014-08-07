@@ -15,7 +15,7 @@ git clone https://github.com/nickbarth/vim-toggledispatch ~/.vim/bundle/vim-togg
 
 ```vimscript
 " Toggle Dispatch
-nnoremap <leader>a :call ToggleDipatch()<CR>
+nnoremap <leader>a :call ToggleDispatch()<CR>
 ```
 
 ### Removal
