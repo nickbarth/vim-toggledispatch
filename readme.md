@@ -6,7 +6,7 @@ Toggle the Vim Dispatch Quick Window. CTRL-a by default.
 
 ```terminal
 # Submodule
-git add submodule https://github.com/nickbarth/vim-toggledispatch .vim/bundle/vim-toggledispatch
+git submodule add https://github.com/nickbarth/vim-toggledispatch .vim/bundle/vim-toggledispatch
 # Clone
 git clone https://github.com/nickbarth/vim-toggledispatch ~/.vim/bundle/vim-toggleddispatch
 ```
